@@ -1,8 +1,9 @@
-fart
-poop
-mop
+Sweep
+Laundry
 wash
 mop
 make bed
 throw trash
 Make Bed
+Eat
+Sleep
